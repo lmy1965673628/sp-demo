@@ -19,6 +19,7 @@
         <module>user-service</module>
         <module>order-service</module>
         <module>sp-eureka</module>
+        <module>sp-ribbon</module>
     </modules>
     <dependencies>
         <dependency>
