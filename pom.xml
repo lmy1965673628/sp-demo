@@ -21,6 +21,7 @@
         <module>sp-eureka</module>
         <module>sp-ribbon</module>
         <module>sp-hystrix</module>
+        <module>sp-hystrix-dashboard</module>
     </modules>
     <dependencies>
         <dependency>
