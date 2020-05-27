@@ -22,6 +22,7 @@
         <module>sp-ribbon</module>
         <module>sp-hystrix</module>
         <module>sp-hystrix-dashboard</module>
+        <module>sp-feign</module>
     </modules>
     <dependencies>
         <dependency>
