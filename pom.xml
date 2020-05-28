@@ -23,6 +23,7 @@
         <module>sp-hystrix</module>
         <module>sp-hystrix-dashboard</module>
         <module>sp-feign</module>
+        <module>sp-turbine</module>
     </modules>
     <dependencies>
         <dependency>
