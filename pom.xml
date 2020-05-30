@@ -24,6 +24,7 @@
         <module>sp-hystrix-dashboard</module>
         <module>sp-feign</module>
         <module>sp-turbine</module>
+        <module>sp-zuul</module>
     </modules>
     <dependencies>
         <dependency>
