@@ -5,10 +5,11 @@ import com.ly.pojo.User;
 import com.ly.util.JsonUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-
+@RefreshScope
 @Slf4j
 @Service
 public class UserServiceImpl implements UserService {
