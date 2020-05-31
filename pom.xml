@@ -25,6 +25,7 @@
         <module>sp-feign</module>
         <module>sp-turbine</module>
         <module>sp-zuul</module>
+        <module>sp-config</module>
     </modules>
     <dependencies>
         <dependency>
